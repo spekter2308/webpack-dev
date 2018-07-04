@@ -42,9 +42,7 @@
     "webpack-cli": "^3.0.8",
     "webpack-dev-middleware": "^3.1.3",
     "webpack-dev-server": "^3.1.4",
-    "webpack-hot-middleware": "^2.22.2"
-  },
-  "devDependencies": {
+    "webpack-hot-middleware": "^2.22.2",
     "babel-minify-webpack-plugin": "^0.3.1",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
     "uglifyjs-webpack-plugin": "^1.2.7"
